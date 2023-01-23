@@ -1,5 +1,5 @@
 <template>
-    <div v-if=" isLoaded && pageData">
+    <div class="main" v-if="isLoaded && pageData">
         <div class="page-name">
             <nuxt-link to="/year/01" :class="{active: pageData.name == '01'}">01</nuxt-link>
             <nuxt-link to="/year/02" :class="{active: pageData.name == '02'}">02</nuxt-link>
@@ -48,6 +48,10 @@ export default Vue.extend({
 </script>
 
 <style lang="scss" scoped>
+.main {
+    max-width: 1300px;
+    margin: 0 auto;
+}
 .main-intro {
     margin: auto;
     text-align: center;
