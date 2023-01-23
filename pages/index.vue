@@ -1,6 +1,7 @@
 <template>
   <div class="main" v-if="isLoaded">
-    <the-nav />
+    <!-- <the-nav /> -->
+    <first-slide />
   </div>
 </template>
 
@@ -24,14 +25,13 @@ export default {
 
 <style>
 .main {
-  background-color: #ededed;
   padding: 40px;
-  height: calc(100vh - 80px);
 }
 html {
   font-size: 10px;
 }
 body {
+  background-color: #F5F9E9;
   margin: 0;
 }
 </style>

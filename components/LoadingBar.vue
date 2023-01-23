@@ -42,7 +42,7 @@ export default {
     left: 0;
     width: 100vw;
     height: 100vh;
-    background: #ededed;
+    background: #F5F9E9;
     text-align: center;
     display: flex;
     align-items: center;
@@ -52,14 +52,15 @@ export default {
       font-family: 'Cutive Mono', cursive;
       font-size: 40px;
       line-height: 64px;
-      color: #111344;
+      color: #00A36C;
+      font-weight: 700;
       span {
         display: inline-block;
         margin: 0 5px;
         @for $i from 0 through 15 {
           &:nth-child(#{$i + 1}) {
             filter: blur(0);
-            animation: blur-text 1.2s (#{$i/15})+s infinite linear alternate;
+            animation: blur-text 1.2s (#{calc($i/15)})+s infinite linear alternate;
           }
         }
       }

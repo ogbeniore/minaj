@@ -1,0 +1,79 @@
+[
+    {
+        "name": "01",
+        "heroText": "We met on the 26th of October, 2019, and I just knew that wouldn’t be the end of us. <br />  <br /> I saw your face and knew I had found the one perfect for me. <br /> <br /> Three months later, we became official.",
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/plushdeveloper/image/upload/v1674477271/minaj/first-date.webp",
+                "caption": "Our first date"
+            },
+            {
+                "url": "https://res.cloudinary.com/plushdeveloper/image/upload/v1674478782/minaj/screenshot.webp",
+                "caption": "We made it official"
+            },
+            {
+                "url": "https://res.cloudinary.com/plushdeveloper/image/upload/v1674481650/minaj/first-date-couple.webp",
+                "caption": "Our first date as couple"
+            },
+            {
+                "url": "https://res.cloudinary.com/plushdeveloper/image/upload/v1674481650/minaj/lockdown.webp",
+                "caption": "During Lockdown season"
+            }
+        ],
+        "bottomLine": "I loved you then, and I love you now."
+    },
+    {
+        "name": "02",
+        "heroText": "Love cannot live where there is the biggest lesson we learnt from year two. <br /> <br />  I realized how deep in love I am with you. We make a great team too! 👫🏾👩🏾‍❤️‍💋‍👨🏾",
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/plushdeveloper/image/upload/v1674484010/minaj/random-photo.webp",
+                "caption": "Us on a date"
+            },
+            {
+                "url": "https://res.cloudinary.com/plushdeveloper/image/upload/v1674484009/minaj/wedding.webp",
+                "caption": "Us at a wedding"
+            },
+            {
+                "url": "https://res.cloudinary.com/plushdeveloper/image/upload/v1674484009/minaj/on_a_date.webp",
+                "caption": "you measuring my height"
+            }, {
+                "url": "https://res.cloudinary.com/plushdeveloper/image/upload/v1674484009/minaj/post-birthday.webp",
+                "caption": "Post birthday lau lau"
+            }
+             
+        ],
+        "bottomLine":" I loved you then, and I love you now."
+    },
+    {
+        "name": "03",
+        "heroText": " With each passing day, my love for you grows. You are my peace, safe haven, companion, friend, and absolute love of my life. <br /> <br /> I am convinced that there's no storm we can't weather together, forever, under the umbrella (hehehe). I have so much faith in us, and I am excited as we continue to build our future together. <br /> <br />Ife re pami bi oti, baby mi, and I love that it will never end ❤️‍🔥",
+        "images": [
+            {
+                "url": "https://res.cloudinary.com/plushdeveloper/image/upload/v1674485631/minaj/first-date-year.webp",
+                "caption": "First date of the year"
+            },
+            {
+                "url": "https://res.cloudinary.com/plushdeveloper/image/upload/v1674485631/minaj/shoelationship.webp",
+                "caption": "Shoelationship "
+            },
+            {
+                "url": "https://res.cloudinary.com/plushdeveloper/image/upload/v1674485631/minaj/cutie.webp",
+                "caption": "Cutie"
+            }, 
+            {
+                "url": "https://res.cloudinary.com/plushdeveloper/image/upload/v1674485631/minaj/o_ga_o.webp",
+                "caption": "God when"
+            },
+            {
+                "url": "https://res.cloudinary.com/plushdeveloper/image/upload/v1674485631/minaj/another-cutie.webp",
+                "caption": "O ga o"
+            },
+            {
+                "url": "https://res.cloudinary.com/plushdeveloper/image/upload/v1674485631/minaj/2023-bithday.webp",
+                "caption": "2023 Birthday celebrations"
+            }
+        ],
+        "bottomLine": "Here’s to many more years of never getting enough of each other. I love you till the end of time, Olumide. Nothing do you 🥂"
+    }
+]
