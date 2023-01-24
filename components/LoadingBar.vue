@@ -4,6 +4,7 @@
       <span>T</span>
       <span>i</span>
       <span>n</span>
+      <span>u</span>
       <span>a</span>
       <span>d</span>
       <span>e</span>
@@ -57,10 +58,10 @@ export default {
       span {
         display: inline-block;
         margin: 0 5px;
-        @for $i from 0 through 15 {
+        @for $i from 0 through 16 {
           &:nth-child(#{$i + 1}) {
             filter: blur(0);
-            animation: blur-text 1.2s (#{calc($i/15)})+s infinite linear alternate;
+            animation: blur-text 1.2s (#{calc($i/16)})+s infinite linear alternate;
           }
         }
       }
