@@ -12,7 +12,7 @@
     .logo span {
         display: block;
         font-size: 1.4rem;
-        font-family: 'Cutive Mono', sans-serif;
+        font-family: 'Dancing Script', sans-serif;
     }
 }
 </style>

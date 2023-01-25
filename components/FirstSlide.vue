@@ -51,8 +51,8 @@ export default Vue.extend({
     font-weight: 600;
     line-height: 60px;
     min-height: 240px;
-    color: #00A36C;
-    font-family: 'Cutive Mono', cursive;
+    color: #ed008c;
+    font-family: 'Dancing Script', cursive;
     padding-top: 80px;
     padding-bottom: 60px;
     span {
@@ -105,7 +105,7 @@ export default Vue.extend({
                 height: 100%;
                 width: 100%;
                 content: "";
-                background-color: rgba(#00A36C, 0.3);
+                background-color: rgba(#ed008c, 0.3);
                 display: block;
                 position: absolute;
                 z-index: 1;
@@ -131,7 +131,7 @@ export default Vue.extend({
         }
 
         &-name {
-            font-family: 'Arvo', serif;
+            font-family: 'Rubik Gemstones', serif;
             font-weight: 700;
             font-size: 60px;
             position: absolute;

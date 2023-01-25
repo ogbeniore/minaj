@@ -31,7 +31,7 @@ html {
   font-size: 10px;
 }
 body {
-  background-color: #F5F9E9;
+  background-color: #fcf6fa;
   margin: 0;
 }
 </style>

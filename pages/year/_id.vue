@@ -60,8 +60,8 @@ export default Vue.extend({
     font-weight: 600;
     line-height: 60px;
     min-height: 240px;
-    color: #00A36C;
-    font-family: 'Cutive Mono', cursive;
+    color: #ed008c;
+    font-family: 'Dancing Script', cursive;
     padding-top: 80px;
     padding-bottom: 60px;
     span {
@@ -76,22 +76,22 @@ export default Vue.extend({
 }
 
 .home {
-    font-family: 'Arvo', serif;
+    font-family: 'Rubik Gemstones', serif;
     font-weight: 700;
     font-size: 30px;
     position: fixed;
-    color: #00A36C;
+    color: #ed008c;
     top: 40px;
     left: 40px;
     z-index: 3;
 }
 
 .page-name {
-    font-family: 'Arvo', serif;
+    font-family: 'Rubik Gemstones', serif;
     font-weight: 700;
     font-size: 120px;
     position: fixed;
-    color: #00A36C;
+    color: #ed008c;
     top: 80px;
     left: 40px;
     z-index: 3;
@@ -125,7 +125,7 @@ export default Vue.extend({
     justify-content: space-between;
 
     .gallery-item {
-        // background-color: rgba($color: #00A36C, $alpha: 0.7);
+        // background-color: rgba($color: #ed008c, $alpha: 0.7);
         height: 500px;
         padding: 10px;
         border-radius: 10px;
@@ -133,7 +133,7 @@ export default Vue.extend({
         position: relative;
 
         img {
-            box-shadow: 2px 4px 2px rgba($color: #00A36C, $alpha: 0.3);
+            box-shadow: 2px 4px 2px rgba($color: #ed008c, $alpha: 0.3);
             margin: auto;
             height: 90%;
             width: auto;

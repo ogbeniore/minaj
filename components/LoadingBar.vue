@@ -43,17 +43,17 @@ export default {
     left: 0;
     width: 100vw;
     height: 100vh;
-    background: #F5F9E9;
+    background-color: #fcf6fa;
     text-align: center;
     display: flex;
     align-items: center;
     justify-content: center;
     z-index: 100;
     p {
-      font-family: 'Cutive Mono', cursive;
+      font-family: 'Dancing Script', cursive;
       font-size: 40px;
       line-height: 64px;
-      color: #00A36C;
+      color: #ed008c;
       font-weight: 700;
       span {
         display: inline-block;
